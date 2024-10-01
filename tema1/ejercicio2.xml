@@ -1,0 +1,27 @@
+<biblioteca_libros>
+   <Libros>
+       <name>Cien años de soledad</name>
+       <price>$15-20</price>
+       <description>Esta obra maestra del realismo mágico narra la historia de la familia Buendía a lo largo de siete generaciones en el ficticio pueblo de Macondo. Considerada por muchos como una de las mejores novelas de todos los tiempos, fue publicada en 1967 y se convirtió en un referente del boom latinoamericano</description>
+       <autor>65Gabriel García Márquez</autor> </Libros>
+   <Libros>
+       <name>El Clan (Inspectora Elena Blanco 5)</name>
+       <price> 20,81 €</price>
+       <description> En esta entrega de la serie protagonizada por la inspectora Elena Blanco, se exploran nuevos crímenes en un contexto lleno de intriga y tensión.</description>
+       <autor>Carmen Mola</autor> </Libros>
+   <Libros>
+       <name>Blackwater I. La riada</name>
+       <price>$8.95</price>
+       <description>Esta novela de terror y misterio sigue a un grupo de personajes que se enfrentan a una fuerza oscura en un entorno amenazante.</description>
+       <autor>José Luis García Sánchez</autor> </Libros>
+   <Libros>
+       <name>Trono De Cristal-Limitada</name>
+       <price>24,65 €</price>
+       <description>Una edición especial de la popular serie de fantasía que sigue a la asesina Celaena Sardothien en su lucha por el poder y la libertad.</description>
+       <autor>Sarah J. Maas</autor> </Libros>
+   <Libros>
+       <name>El niño que perdió su nombre</name>
+       <price>15 €</price>
+       <description>Un libro ilustrado que narra la aventura de un niño que busca recuperar su nombre perdido, ideal para fomentar la lectura en los más pequeños.</description>
+       <autor> David Cadji Newby</autor> </Libros>
+</biblioteca_libros>
