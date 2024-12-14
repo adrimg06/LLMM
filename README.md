@@ -19,8 +19,8 @@ Ejercicio | Descripcion
 [Ejercicio14](EJERCICIOS_HTML/Tarea14.html) | ---
 [Ejercicio15](EJERCICIOS_HTML/Tarea15.html) | ---
 [Ejercicio16](EJERCICIOS_HTML/Tarea16.html) | ---
-[Ejercicio17](EJERCICIOS_HTML/Tarea17.html) | ---
-[Ejercicio18](EJERCICIOS_HTML/Tarea18.html) | ---
-[Ejercicio19](EJERCICIOS_HTML/activ19.html) | ---
-[Ejercicio20](EJERCICIOS_HTML/tarea20.html) | ---
-[Ejercicio21](EJERCICIOS_HTML/tarea21.html) | ---
+[Ejercicio17](..//EJERCICIOS_HTML/activ17/Tarea17.html) | ---
+[Ejercicio18](..//EJERCICIOS_HTML/activ18/Tarea18.html) | ---
+[Ejercicio19](..//EJERCICIOS_HTML/activ19/activ19.html) | ---
+[Ejercicio20](..//EJERCICIOS_HTML/activ20/tarea20.html) | ---
+[Ejercicio21](..//EJERCICIOS_HTML/activ21/tarea21.html) | ---
