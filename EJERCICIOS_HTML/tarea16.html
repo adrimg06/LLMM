@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horario Escolar</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .descanso {
+            background-color: #ffe4b5;
+            font-weight: bold;
+        }
+
+        .materia {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Horario Escolar</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Hora</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miércoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>8:00 - 9:00</td>
+                <td class="materia" rowspan="2">BASE DE DATOS</td>
+                <td>Español</td>
+                <td class="materia" rowspan="2">ISO</td>
+                <td>IPE</td>
+                <td>LENGUAJE DE MARCAS</td>
+            </tr>
+            <tr>
+                <td>9:00 - 10:00</td>
+                <td class="materia" rowspan="2">LENGUAJE DE MARCAS</td>
+                <td>BASE DE DATOS</td>
+                <td class="materia" rowspan="2">ISO</td>
+            </tr>
+            <tr>
+                <td>10:00 - 11:00</td>
+                <td>ISO</td>
+                <td>LENGUAJE DE MARCAS</td>
+                <td>IPE</td>
+                <td>BASE DE DATOS</td>
+            </tr>
+            <tr class="descanso">
+                <td>11:00 - 11:30</td>
+                <td colspan="5">Descanso</td>
+            </tr>
+            <tr>
+                <td>11:30 - 12:30</td>
+                <td>ISO</td>
+                <td class="materia" rowspan="2">IPE</td>
+                <td>Español</td>
+                <td class="materia" rowspan="2">BASE DE DATOS</td>
+                <td>SOS</td>
+            </tr>
+            <tr>
+                <td>12:30 - 1:30</td>
+                <td>BASE DE DATOS</td>
+                <td>ISO</td>
+                <td>IPE</td>
+            </tr>
+            <tr>
+                <td>1:30 - 2:30</td>
+                <td>ISO</td>
+                <td>LENGUAJE DE MARCAS</td>
+                <td>BASE DE DATOS</td>
+                <td>IPE</td>
+                <td>SOS</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
