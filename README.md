@@ -14,11 +14,11 @@ Ejercicio | Descripcion
 [Ejecicio9](EJERCICIOS_HTML/tarea9/tarea9.html) | ---
 [Ejercicio10](EJERCICIOS_HTML/tarea10.html) | ---
 [Ejecicio11](EJERCICIOS_HTML/tarea11.html) | ---
-[Ejercicio12](EJERCICIOS_HTML/Tarea12.html) | ---
-[Ejercicio13](EJERCICIOS_HTML/Tarea13.html) | ---
-[Ejercicio14](EJERCICIOS_HTML/Tarea14.html) | ---
-[Ejercicio15](EJERCICIOS_HTML/Tarea15.html) | ---
-[Ejercicio16](EJERCICIOS_HTML/Tarea16.html) | ---
+[Ejercicio12](EJERCICIOS_HTML/tarea12.html) | ---
+[Ejercicio13](EJERCICIOS_HTML/tarea13.html) | ---
+[Ejercicio14](EJERCICIOS_HTML/tarea14.html) | ---
+[Ejercicio15](EJERCICIOS_HTML/tarea15.html) | ---
+[Ejercicio16](EJERCICIOS_HTML/tarea16.html) | ---
 [Ejercicio17](..//EJERCICIOS_HTML/activ17/Tarea17.html) | ---
 [Ejercicio18](..//EJERCICIOS_HTML/activ18/Tarea18.html) | ---
 [Ejercicio19](..//EJERCICIOS_HTML/activ19/activ19.html) | ---
