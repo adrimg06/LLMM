@@ -21,6 +21,6 @@ Ejercicio | Descripcion
 [Ejercicio16](EJERCICIOS_HTML/Tarea16.html) | ---
 [Ejercicio17](EJERCICIOS_HTML/Tarea17.html) | ---
 [Ejercicio18](EJERCICIOS_HTML/Tarea18.html) | ---
-[Ejercicio19](EJERCICIOS_HTML/activ19/activ19.html) | ---
-[Ejercicio20](EJERCICIOS_HTML/activ20/tarea20.html) | ---
-[Ejercicio21](EJERCICIOS_HTML/activ21/tarea21.html) | ---
+[Ejercicio19](EJERCICIOS_HTML/activ19.html) | ---
+[Ejercicio20](EJERCICIOS_HTML/tarea20.html) | ---
+[Ejercicio21](EJERCICIOS_HTML/tarea21.html) | ---
